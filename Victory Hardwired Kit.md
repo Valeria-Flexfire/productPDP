@@ -1,3 +1,4 @@
+<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><img class="__mce_add_custom__" title="Static White - Hardwired Pro Victory LED Puck Light Kits" src="https://cdn11.bigcommerce.com/s-43185/images/stencil/original/image-manager/victory-kit-pro-banner.jpg" alt="Static White - Hardwired Pro Victory LED Puck Light Kits" width="1000" height="270" /><br />&nbsp;<br /></span></p>
 <p style="text-align: center;"><span style="color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: x-large;">Static White - Hardwired Pro Victory&trade; LED Puck Light Kits</span></strong><br /></span></p>
 <h2><span style="font-size: medium; color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif;">Description:</span></strong></span></h2>
 <h3><span style="font-size: medium; color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif;">Introduction:</span></strong></span></h3>
@@ -63,31 +64,53 @@
 <p style="text-align: center;"><span style="font-size: medium; color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif;"><img class="__mce_add_custom__" title="Free project design icon" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/free-project-design-icon.jpg" alt="Free project design icon" width="150" height="150" />&nbsp;&nbsp;<img class="__mce_add_custom__" title="personalized service and support" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/personalized-service-icon.jpg" alt="personalized service and support" width="150" height="150" />&nbsp;&nbsp;<img class="__mce_add_custom__" title="specification grade LED strip lights with 15 year warranty" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/15-year-warranty-led-strips.jpg" alt="specification grade LED strip lights with 15 year warranty" width="150" height="150" />&nbsp;&nbsp;<img class="__mce_add_custom__" title="30 day money back LED strips" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/30-day-money-back-guarantee-led-strips.jpg" alt="30 day money back LED strips" width="150" height="150" /></span></strong></span></p>
 <h2 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Installation:</strong></span></h2>
 <h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Installation Diagrams and Downloads</strong></span></h3>
+<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Victory&trade; Puck Lights Installation Diagram for Hardwired Pro Kit with Lutron Diva</strong></span></h3>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif;"><strong><img class="__mce_add_custom__" title="Victory&trade; Puck Lights Installation Diagram for Hardwired Pro Kit with Lutron Diva" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/led-strip-light-kit-with-ge-switch.jpg" alt="LED strip light kit installation diagram" width="615" height="250" /></strong></span></p>
+<h3><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><strong><span id="docs-internal-guid-e6b1cf57-7fff-a5b2-6839-767e681742e4">I<span style="color: #000000;">Victory&trade; Puck Lights Installation Diagram for Hardwired Pro Kit with Lutron Caseta</span> </span>&nbsp;</strong></span></h3>
+<p style="padding-left: 30px;"><span style="font-family: arial, helvetica, sans-serif;"><strong><img class="__mce_add_custom__" title="LED strip light kit with smart home controller installation diagram" src="https://cdn11.bigcommerce.com/s-43185/product_images/uploaded_images/led-strip-light-kit-with-smart-home-controller.jpg" alt="LED strip light kit with smart home controller installation diagram" width="615" height="250" /></strong></span></p>
+<h2 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Specifications:</strong></span></h2>
+<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Specifications</strong></span></h3>
+<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Victory&trade; LED Puck Lights Specifications:</strong></span></h3>
+<p style="text-align: center;">&nbsp;</p>
+<div class="learnpg-main">
+<ul>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Select a <strong>DC</strong> connector cable to power the puck lights from a plug-in power supply or adapter.</span></span></p>
+<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔&nbsp;</span>5-year warranty</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Choose a <strong>4-way splitter</strong> to divide the runs into different directions.</span></span></p>
+<p style="font-family: helvetica;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span>✔&nbsp;</span>12V DC constant voltage input</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Add 2ft or 5ft long <strong>extension cables</strong> to connect multiple puck lights together while going over a gap or jump in your project.</span></span></p>
-</li>
-<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Features:</strong></span></h3>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Compatible with our <a href="https://www.flexfireleds.com/victory-led-puck-lights/" target="_blank">Victory&trade LED puck lights</a></span></span></p>
+<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔&nbsp;</span>ETL Listed</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Easily power each puck light or group of puck lights</span></span></p>
+<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔&nbsp;</span>IP20-rated</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Effortlessly split multiple puck light runs in different directions</span></span></p>
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>High CRI LED puck lights</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Lightweight and easy to install</span></span></p>
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>Fully dimmable</span></p>
 </li>
 <li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ IP20 rated for indoor use</span></span></p>
+<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔&nbsp;</span>120 degree lighting beam angle</span></p>
 </li>
+<li class="col-sm-5">
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>Single-bin LED selection to ensure color consistency (3-Step MacAdam)</span></p>
+</li>
+<li class="col-sm-5">
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>Diameter: 2 ½”</span></p>
+</li>
+<li class="col-sm-5">
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>Height: ⅕”</span></p>
+</li>
+<li class="col-sm-5">
+<p style="font-family: helvetica;"><span style="font-size: small;"><span>✔&nbsp;</span>Ambient temperature: -4ºF to 104ºF (-20°C to 40°C)</span></p>
+</li>
+<li class="col-sm-5">
+<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 50,000 hour lifespan (8 hours a day for 17 years)</span></span></p>
+</li>
+</ul>
 <h2 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>SPECIFICATIONS</strong></span></h2>
 <h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Specifications:</strong></span></h3>
 <li class="col-sm-5">
