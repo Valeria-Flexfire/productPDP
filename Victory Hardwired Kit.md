@@ -111,48 +111,134 @@
 <p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 50,000 hour lifespan (8 hours a day for 17 years)</span></span></p>
 </li>
 </ul>
-<h2 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>SPECIFICATIONS</strong></span></h2>
-<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Specifications:</strong></span></h3>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 12V DC input voltage</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Wire gauge: 22/2 AWG</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ Maximum amperage: 5 amps</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ IP20 rated for indoor use</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ DC connector cable: 12” x ½” (diameter)</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 4-way splitter: 15 ⅛” x 1 ¼” x ⅝”</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 2ft extension cable: 24” x ¼” x ¼”</span></span></p>
-</li>
-<li class="col-sm-5">
-<p style="font-family: helvetica;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span>✔ 5ft extension cable:  60” x ¼” x ¼”</span></span></p>
-</li>
-<h2 dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><strong style="color: #000080; font-family: arial, helvetica, sans-serif; font-size: medium;">FAQ</strong></span></h2>
-<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">Victory&trade LED Puck Light FAQ:</strong></span></p>
-<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong><span style="font-size: small;"><strong><strong>Q:&nbsp;</strong> What are the advantages of these accessories?</strong></span></strong></span></p>
-<p style="text-align: left; padding-left: 30px;"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">The accessories, which include a power connector, jumpers and a splitter, offer a plug-and-play solution to making connections for our Victory&trade LED puck lights. This guarantees fast and easy installation. No soldering is required.</span></p>
-<p dir="ltr"><span style="color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Q&nbsp:Which connector should I use if I need to connect puck lights going in different directions?</span></strong></span></p>
-<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">The 4-way splitter is our go-to solution to easily assemble multiple puck lights. You can use this accessory to divide or split runs of puck lights that go in different directions.</span></p>
-<p dir="ltr"><span style="color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Q&nbsp: Q: Which connector should I use for a gap in my project?</span></strong></span></p>
-<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">You can use the extension cables to jump gaps in your project. There are two available lengths, 2ft and 5ft.</span></p>
-<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;"><strong>Q&nbsp: Can I hardwire instead of using the connectors?</strong></span></p>
-<p style="padding-left: 30px;" dir="ltr"><span style="color: #000000;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Yes, for hardwired installations you may simply cut off the connector using scissors and with the help of a wire stripper expose a little of the wires to proceed to hardwire your connections. Please note that if you modify the connectors, the product would still be covered under warranty, it would not be eligible for our 30-day money back guarantee as it would no longer be considered to be in resellable condition.</span></span></p>
-<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;"><strong>Q&nbsp: Is there an outdoor option?</strong></span></p>
-<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">No, there is no outdoor rated version of our Victory&trade LED puck lights and its accessories.</span></p>
-<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Need assistance with your project or purchase?</strong> Our design specialists are ready to help.</span></p>
-<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/ask-us-a-question/">to Contact Us</a></span></p>
 <p>&nbsp;</p>
-<h2 style="text-align: left;"><span style="font-size: medium; color: #000080; font-family: arial, helvetica, sans-serif;">DOWNLOADS</span></h2>
-<h3><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong><span style="font-size: medium;">Downloads:</span></strong></span></h3>
-<h3 dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">User Guide - Data Sheet</span></h3>
-<p style="padding-left: 30px;" dir="ltr"><a href="https://www.flexfireleds.com/content/Endeavor-120V-Cove-Light-Data-Sheet.pdf" target="_blank"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Victory&tradeLED Puck Light Spec Sheet</span></a></p>
+<table><colgroup><col width="70" /><col width="80" /><col width="97" /><col width="78" /><col width="47" /><col width="76" /><col width="75" /><col width="44" /></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Product SKU</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Color CCT</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Watts/Fixture</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Lumens/Fixture</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Luminous Efficacy (Lumens/Watt)</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>CRI</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Gamut Score Rg</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Relative Fidelity Score Rf</strong></span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>TLCI</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">VIC-R-30K-S-12V</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">3000K</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">3.2</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">240</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">60 lm/W</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">95</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">103</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">93</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">93</span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">VIC-R-40K-S-12V</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">4000K</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">3.2</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">260</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">65 lm/W</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">92</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">97</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">90</span></p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">91</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 dir="ltr"><span id="docs-internal-guid-ce3f5359-7fff-36f0-5634-bf7cdccffefc" style="font-family: arial, helvetica, sans-serif; font-size: medium; color: #000000;"><strong>Specification Sheets Download:</strong></span></h3>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/PENDING/">Victory&trade; Puck Light Specification Sheet</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/PENDING/">Zurik® Universal Dimmable LED Driver Data Sheet</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/PENDING/">Lutron Diva Spec Sheet</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/PENDING/">Caseta Kit Quick Start Install Guide</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/PENDING/">Lutron Diva Spec Sheet</a></span></p>
+<h2 dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><strong style="color: #000080; font-family: arial, helvetica, sans-serif; font-size: medium;">FAQ</strong></span></h2>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">Hardwired Pro Victory&trade; LED Puck Light Kits FAQs:</strong></span></p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong><span style="font-size: small;"><strong><strong>Q:&nbsp;</strong> How many puck lights can I connect in a daisy chain before voltage drop?</strong></span></strong></span></p>
+<p style="text-align: left; padding-left: 30px;"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">The maximum run length in series of the VictoryTM LED Puck lights is 7 pucks. In other words, you can connect up to 7 LED pucks in a continuous run before experiencing visible voltage drop. However, you may create parallel connections from a single power supply and split the runs in different directions if you need to power more than 7 LED pucks in your application.</span></p>
+<p dir="ltr"><span style="color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Q:&nbsp;Can I add more fixtures to the Hardwired kits?</span></strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">Both the four and six puck light kits include a <a href="https://www.flexfireleds.com/zurik-led-dimmable-driver/zurik-universal-dimmable-led-driver/">12V 30W Zurik Universal Dimmable LED Driver.</a> The maximum number of pucks recommended for this power supply is 7. Therefore, if you purchase a kit that includes 4 pieces, you may add up to 3 more pucks. However, if you purchase the kit with 6 fixtures, you may only add one extra puck light. If you require a different number of puck lights for your project, please contact us to get a personalized kit.</span></p>
+<p dir="ltr"><span style="color: #000000;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Q&nbsp:;How do I install the LED puck lights?</span></strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;">YThe Victory&trade; LED Puck lights can be surface mounted or recessed mounted using the hardware that comes with the product. For full installation instructions, please refer to the <a href="https://www.flexfireleds.com/zurik-led-dimmable-driver/PENDING/">Victory&trade; LED Puck Light Spec Sheet and Install Guide.</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;"><strong>Q&nbsp:;Can I hardwire the puck lights?</strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="color: #000000;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Yes, the LED puck lights can be hardwired. Simply cut off the connectors on the LED puck lights to expose the wires and hardwire your connections. This will affect the 30-day money-back guarantee as the product must be in resellable condition in order to be eligible for return but it won’t affect the warranty of the product.</span></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #000000;"><strong>Q&nbsp:;What is CRI and why should I care?</strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/color-rendering-index-cri-and-led-lighting-what-is-cri/">Color Rendering Index</a> (CRI) measures how colors are correctly rendered under a light source in comparison to natural sunlight. The index is measured on a 0-100 scale with 100 being a perfect rating of color accuracy, meaning the colors appear as they naturally would under unadulterated daylight. High CRI lighting is sought out everywhere. The bottom line: the higher the CRI, the higher quality the light source.</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>95 - 100 &rarr;&nbsp;</strong> Phenomenal color rendering! Colors appear as they should, subtle tones pop out and are accented, skin tones look beautiful, art comes alive, backsplashes and paint show their true colors. You have to see it to believe it!&nbsp;</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>90 - 95 &rarr;&nbsp;</strong> Great color rendering! Almost all colors 'pop' and are easily distinguishable. Noticeably great lighting starts at a CRI of 90.&nbsp;</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>80 - 90 &rarr;</strong> Good color rendering, where most colors are rendered well. You may not see items as fully saturated as you would like, but most people will not notice.&nbsp;</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>60 - 75 &rarr;</strong> Poor color rendering. Items and colors may look desaturated, drab, and at times unidentifiable. (For example, you may not be able to see the difference between black and navy colored socks.)</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Lighting products that emit colored lights will not have a CRI as color rendering is only for white light.<br /></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Q: What are lumens?</strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Lumens are a quantifiable amount of light produced by an LED source. In other words, this is one way we can measure how much light is produced. When comparing LED strip lights, you want to compare the lumen output as well as the CRI, watts/foot, warranty, and bin selection.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: small;"><strong>Quick Guide by project</strong></span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Accent Lighting&nbsp;and&nbsp;Mood Lighting&nbsp;<strong>- 100 to 350 lumens per foot</strong>&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Under cabinet Lighting&nbsp;<strong>-&nbsp;175 to 525&nbsp;lumens per foot</strong></span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Task Lighting with low distance from light source<strong>&nbsp;- 280 to 437&nbsp;lumens per foot</strong></span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Task Lighting with higher distance from light source&nbsp;<strong>- 344 to 687&nbsp;lumens per foot</strong></span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Indirect lighting in a&nbsp;bedroom/&nbsp;hotel&nbsp;/&nbsp;vehicle&nbsp;/&nbsp;lobby&nbsp;<strong>- 375 to 562&nbsp;lumens per foot</strong></span></p>
+<p style="padding-left: 30px;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Industrial lighting&nbsp;/&nbsp;signage&nbsp;/&nbsp;tube replacements<strong>&nbsp;- 500 to 950&nbsp;lumens per foot</strong></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Q: What is the warranty of the Victory&trade; LED Puck Lights?</strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Because of our unyielding confidence in the quality of our product, we offer a 5-year warranty on our Victory&trade; LED Puck Lights. Please bear in mind that if you are hardwiring the puck lights, you may have to cut off the connector attached to expose the wires. Doing so will affect the 30-day money-back guarantee policy but it won’t affect the warranty of the product. For more information, please read our <a href="https://www.flexfireleds.com/warranties/">warranty policy.</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Q: What is the importance of an ETL listing?</strong></span></p>
+<p style="padding-left: 30px;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Electrical Testing Laboratories (ETL) is a testing and certification division that rigorously tests products to ensure safety and quality. ETL Listed products indicate that the tested product has been found in compliance with accepted national standards.</a></span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><strong>Need assistance with your project or purchase?</strong> Our design specialists are ready to help.</span></p>
+<p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a href="https://www.flexfireleds.com/ask-us-a-question/">Click Here to Contact Us</a></span></p>
